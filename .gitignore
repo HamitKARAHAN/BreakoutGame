@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BreakoutGame/v17
+/BreakoutGame/Breakout/.vs/BREAKOUT/v17
+/BreakoutGame/Breakout/BREAKOUT/x64/Debug
